@@ -12,13 +12,14 @@ Android面试相关的总结
 
 ## Java部分 
 ### 基础面试题 
-1. hashmap和hashtable区别  HashMap源码分析  HashMap底层结构 HashMap查找效率
-2. 设计一个线程安全的HashMap
-3. 为什么产生死锁
-4. jvm类加载
-5. java反射获取私有属性，改变值 反射用途
-6. synchronized关键字的用法
-7. ArrayList的底层实现
+1. Java程序运行机制
+2. hashmap和hashtable区别  HashMap源码分析  HashMap底层结构 HashMap查找效率
+3. 设计一个线程安全的HashMap
+4. 为什么产生死锁
+5. jvm类加载
+6. java反射获取私有属性，改变值 反射用途
+7. synchronized关键字的用法
+8. ArrayList的底层实现
 
 ### 多线程部分 
 
